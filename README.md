@@ -165,9 +165,6 @@ Nav2 settings (controller speed 0.35 m/s, robot radius 0.28 m, inflation 0.45 m)
 | Follower spins in place | Tag 49 not visible; check `/follower/camera/image_raw` and the `follower/` TF tree |
 | Everything is stale in Gazebo | Use `use_sim_time:=true` on every node |
 
-## Deliverables
-
-Technical report (≤ 5 pages), demo video (one uninterrupted autonomous run showing Gazebo and RViz2), this package with the saved map, and this README.
 
 ## Credits
 
